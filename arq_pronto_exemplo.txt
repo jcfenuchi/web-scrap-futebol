@@ -1,0 +1,104 @@
+nome,posicao,nascionalidade,idade,clube,melhor_marca_da_carreira,ultima_alteracao,valor_de_mercado
+1-Gabriel Barbosa,Centroavante,Brasil,26,CR Flamengo,26,00 mi. €,14/11/2022,22,00 mi. €
+2-Pedro,Centroavante,Brasil,25,CR Flamengo,20,00 mi. €,14/11/2022,20,00 mi. €
+3-Endrick,Centroavante,Brasil,16,SE Palmeiras,20,00 mi. €,14/11/2022,20,00 mi. €
+4-Giorgian de Arrascaeta,Meia Ofensivo,Uruguai,28,CR Flamengo,19,00 mi. €,14/11/2022,19,00 mi. €
+5-Gerson,Meia Central,Brasil,25,CR Flamengo,22,00 mi. €,02/11/2022,18,00 mi. €
+6-Yuri Alberto,Centroavante,Brasil,21,SC Corinthians,16,00 mi. €,14/11/2022,16,00 mi. €
+7-Marcos Leonardo,Centroavante,Brasil,19,Santos FC,14,00 mi. €,14/11/2022,14,00 mi. €
+8-Matías Zaracho,Meia Ofensivo,Argentina,24,Atlético Mineiro,17,50 mi. €,14/11/2022,14,00 mi. €
+9-Guilherme Arana,Lateral Esq.,Brasil,25,Atlético Mineiro,14,00 mi. €,14/11/2022,14,00 mi. €
+10-Ângelo Gabriel,Ponta Direita,Brasil,18,Santos FC,13,00 mi. €,14/11/2022,13,00 mi. €
+11-Raphael Veiga,Meia Ofensivo,Brasil,27,SE Palmeiras,12,00 mi. €,14/11/2022,12,00 mi. €
+12-Pedrinho,Ponta Direita,Brasil,24,Atlético Mineiro,17,00 mi. €,14/11/2022,12,00 mi. €
+13-Éverton,Ponta Esquerda,Brasil,26,CR Flamengo,40,00 mi. €,14/11/2022,12,00 mi. €
+14-Dudu,Ponta Esquerda,Brasil,31,SE Palmeiras,15,00 mi. €,14/11/2022,12,00 mi. €
+15-Vitor Roque,Centroavante,Brasil,17,Athletico Paranaense,11,00 mi. €,14/11/2022,11,00 mi. €
+16-André,Volante,Brasil,21,Fluminense FC,10,00 mi. €,14/11/2022,10,00 mi. €
+17-Artur,Ponta Direita,Brasil,25,RB Bragantino,10,00 mi. €,14/11/2022,10,00 mi. €
+18-Kayky,Ponta Direita,Brasil,19,EC Bahia,14,00 mi. €,01/11/2022,10,00 mi. €
+19-Rony,Centroavante,Brasil,27,SE Palmeiras,10,00 mi. €,14/11/2022,10,00 mi. €
+20-Gustavo Gómez,Zagueiro,Paraguai,29,SE Palmeiras,9,00 mi. €,14/11/2022,9,00 mi. €
+21-Giovani,Ponta Direita,Brasil,19,SE Palmeiras,10,00 mi. €,14/11/2022,9,00 mi. €
+22-Róger Guedes,Ponta Esquerda,Brasil,26,SC Corinthians,11,00 mi. €,14/11/2022,8,00 mi. €
+23-José Manuel López,Centroavante,Argentina,22,SE Palmeiras,8,00 mi. €,14/11/2022,8,00 mi. €
+24-Wanderson,Ponta Esquerda,Brasil,28,SC Internacional,11,00 mi. €,14/11/2022,8,00 mi. €
+25-Matheuzinho,Lateral Dir.,Brasil,22,CR Flamengo,8,00 mi. €,14/11/2022,8,00 mi. €
+nome,posicao,nascionalidade,idade,clube,melhor_marca_da_carreira,ultima_alteracao,valor_de_mercado
+26-Gabriel Barbosa,Centroavante,Brasil,26,CR Flamengo,26,00 mi. €,14/11/2022,22,00 mi. €
+27-Pedro,Centroavante,Brasil,25,CR Flamengo,20,00 mi. €,14/11/2022,20,00 mi. €
+28-Endrick,Centroavante,Brasil,16,SE Palmeiras,20,00 mi. €,14/11/2022,20,00 mi. €
+29-Giorgian de Arrascaeta,Meia Ofensivo,Uruguai,28,CR Flamengo,19,00 mi. €,14/11/2022,19,00 mi. €
+30-Gerson,Meia Central,Brasil,25,CR Flamengo,22,00 mi. €,02/11/2022,18,00 mi. €
+31-Yuri Alberto,Centroavante,Brasil,21,SC Corinthians,16,00 mi. €,14/11/2022,16,00 mi. €
+32-Marcos Leonardo,Centroavante,Brasil,19,Santos FC,14,00 mi. €,14/11/2022,14,00 mi. €
+33-Matías Zaracho,Meia Ofensivo,Argentina,24,Atlético Mineiro,17,50 mi. €,14/11/2022,14,00 mi. €
+34-Guilherme Arana,Lateral Esq.,Brasil,25,Atlético Mineiro,14,00 mi. €,14/11/2022,14,00 mi. €
+35-Ângelo Gabriel,Ponta Direita,Brasil,18,Santos FC,13,00 mi. €,14/11/2022,13,00 mi. €
+36-Raphael Veiga,Meia Ofensivo,Brasil,27,SE Palmeiras,12,00 mi. €,14/11/2022,12,00 mi. €
+37-Pedrinho,Ponta Direita,Brasil,24,Atlético Mineiro,17,00 mi. €,14/11/2022,12,00 mi. €
+38-Éverton,Ponta Esquerda,Brasil,26,CR Flamengo,40,00 mi. €,14/11/2022,12,00 mi. €
+39-Dudu,Ponta Esquerda,Brasil,31,SE Palmeiras,15,00 mi. €,14/11/2022,12,00 mi. €
+40-Vitor Roque,Centroavante,Brasil,17,Athletico Paranaense,11,00 mi. €,14/11/2022,11,00 mi. €
+41-André,Volante,Brasil,21,Fluminense FC,10,00 mi. €,14/11/2022,10,00 mi. €
+42-Artur,Ponta Direita,Brasil,25,RB Bragantino,10,00 mi. €,14/11/2022,10,00 mi. €
+43-Kayky,Ponta Direita,Brasil,19,EC Bahia,14,00 mi. €,01/11/2022,10,00 mi. €
+44-Rony,Centroavante,Brasil,27,SE Palmeiras,10,00 mi. €,14/11/2022,10,00 mi. €
+45-Gustavo Gómez,Zagueiro,Paraguai,29,SE Palmeiras,9,00 mi. €,14/11/2022,9,00 mi. €
+46-Giovani,Ponta Direita,Brasil,19,SE Palmeiras,10,00 mi. €,14/11/2022,9,00 mi. €
+47-Róger Guedes,Ponta Esquerda,Brasil,26,SC Corinthians,11,00 mi. €,14/11/2022,8,00 mi. €
+48-José Manuel López,Centroavante,Argentina,22,SE Palmeiras,8,00 mi. €,14/11/2022,8,00 mi. €
+49-Wanderson,Ponta Esquerda,Brasil,28,SC Internacional,11,00 mi. €,14/11/2022,8,00 mi. €
+50-Matheuzinho,Lateral Dir.,Brasil,22,CR Flamengo,8,00 mi. €,14/11/2022,8,00 mi. €
+nome,posicao,nascionalidade,idade,clube,melhor_marca_da_carreira,ultima_alteracao,valor_de_mercado
+51-Gabriel Barbosa,Centroavante,Brasil,26,CR Flamengo,26,00 mi. €,14/11/2022,22,00 mi. €
+52-Pedro,Centroavante,Brasil,25,CR Flamengo,20,00 mi. €,14/11/2022,20,00 mi. €
+53-Endrick,Centroavante,Brasil,16,SE Palmeiras,20,00 mi. €,14/11/2022,20,00 mi. €
+54-Giorgian de Arrascaeta,Meia Ofensivo,Uruguai,28,CR Flamengo,19,00 mi. €,14/11/2022,19,00 mi. €
+55-Gerson,Meia Central,Brasil,25,CR Flamengo,22,00 mi. €,02/11/2022,18,00 mi. €
+56-Yuri Alberto,Centroavante,Brasil,21,SC Corinthians,16,00 mi. €,14/11/2022,16,00 mi. €
+57-Marcos Leonardo,Centroavante,Brasil,19,Santos FC,14,00 mi. €,14/11/2022,14,00 mi. €
+58-Matías Zaracho,Meia Ofensivo,Argentina,24,Atlético Mineiro,17,50 mi. €,14/11/2022,14,00 mi. €
+59-Guilherme Arana,Lateral Esq.,Brasil,25,Atlético Mineiro,14,00 mi. €,14/11/2022,14,00 mi. €
+60-Ângelo Gabriel,Ponta Direita,Brasil,18,Santos FC,13,00 mi. €,14/11/2022,13,00 mi. €
+61-Raphael Veiga,Meia Ofensivo,Brasil,27,SE Palmeiras,12,00 mi. €,14/11/2022,12,00 mi. €
+62-Pedrinho,Ponta Direita,Brasil,24,Atlético Mineiro,17,00 mi. €,14/11/2022,12,00 mi. €
+63-Éverton,Ponta Esquerda,Brasil,26,CR Flamengo,40,00 mi. €,14/11/2022,12,00 mi. €
+64-Dudu,Ponta Esquerda,Brasil,31,SE Palmeiras,15,00 mi. €,14/11/2022,12,00 mi. €
+65-Vitor Roque,Centroavante,Brasil,17,Athletico Paranaense,11,00 mi. €,14/11/2022,11,00 mi. €
+66-André,Volante,Brasil,21,Fluminense FC,10,00 mi. €,14/11/2022,10,00 mi. €
+67-Artur,Ponta Direita,Brasil,25,RB Bragantino,10,00 mi. €,14/11/2022,10,00 mi. €
+68-Kayky,Ponta Direita,Brasil,19,EC Bahia,14,00 mi. €,01/11/2022,10,00 mi. €
+69-Rony,Centroavante,Brasil,27,SE Palmeiras,10,00 mi. €,14/11/2022,10,00 mi. €
+70-Gustavo Gómez,Zagueiro,Paraguai,29,SE Palmeiras,9,00 mi. €,14/11/2022,9,00 mi. €
+71-Giovani,Ponta Direita,Brasil,19,SE Palmeiras,10,00 mi. €,14/11/2022,9,00 mi. €
+72-Róger Guedes,Ponta Esquerda,Brasil,26,SC Corinthians,11,00 mi. €,14/11/2022,8,00 mi. €
+73-José Manuel López,Centroavante,Argentina,22,SE Palmeiras,8,00 mi. €,14/11/2022,8,00 mi. €
+74-Wanderson,Ponta Esquerda,Brasil,28,SC Internacional,11,00 mi. €,14/11/2022,8,00 mi. €
+75-Matheuzinho,Lateral Dir.,Brasil,22,CR Flamengo,8,00 mi. €,14/11/2022,8,00 mi. €
+nome,posicao,nascionalidade,idade,clube,melhor_marca_da_carreira,ultima_alteracao,valor_de_mercado
+76-Gabriel Barbosa,Centroavante,Brasil,26,CR Flamengo,26,00 mi. €,14/11/2022,22,00 mi. €
+77-Pedro,Centroavante,Brasil,25,CR Flamengo,20,00 mi. €,14/11/2022,20,00 mi. €
+78-Endrick,Centroavante,Brasil,16,SE Palmeiras,20,00 mi. €,14/11/2022,20,00 mi. €
+79-Giorgian de Arrascaeta,Meia Ofensivo,Uruguai,28,CR Flamengo,19,00 mi. €,14/11/2022,19,00 mi. €
+80-Gerson,Meia Central,Brasil,25,CR Flamengo,22,00 mi. €,02/11/2022,18,00 mi. €
+81-Yuri Alberto,Centroavante,Brasil,21,SC Corinthians,16,00 mi. €,14/11/2022,16,00 mi. €
+82-Marcos Leonardo,Centroavante,Brasil,19,Santos FC,14,00 mi. €,14/11/2022,14,00 mi. €
+83-Matías Zaracho,Meia Ofensivo,Argentina,24,Atlético Mineiro,17,50 mi. €,14/11/2022,14,00 mi. €
+84-Guilherme Arana,Lateral Esq.,Brasil,25,Atlético Mineiro,14,00 mi. €,14/11/2022,14,00 mi. €
+85-Ângelo Gabriel,Ponta Direita,Brasil,18,Santos FC,13,00 mi. €,14/11/2022,13,00 mi. €
+86-Raphael Veiga,Meia Ofensivo,Brasil,27,SE Palmeiras,12,00 mi. €,14/11/2022,12,00 mi. €
+87-Pedrinho,Ponta Direita,Brasil,24,Atlético Mineiro,17,00 mi. €,14/11/2022,12,00 mi. €
+88-Éverton,Ponta Esquerda,Brasil,26,CR Flamengo,40,00 mi. €,14/11/2022,12,00 mi. €
+89-Dudu,Ponta Esquerda,Brasil,31,SE Palmeiras,15,00 mi. €,14/11/2022,12,00 mi. €
+90-Vitor Roque,Centroavante,Brasil,17,Athletico Paranaense,11,00 mi. €,14/11/2022,11,00 mi. €
+91-André,Volante,Brasil,21,Fluminense FC,10,00 mi. €,14/11/2022,10,00 mi. €
+92-Artur,Ponta Direita,Brasil,25,RB Bragantino,10,00 mi. €,14/11/2022,10,00 mi. €
+93-Kayky,Ponta Direita,Brasil,19,EC Bahia,14,00 mi. €,01/11/2022,10,00 mi. €
+94-Rony,Centroavante,Brasil,27,SE Palmeiras,10,00 mi. €,14/11/2022,10,00 mi. €
+95-Gustavo Gómez,Zagueiro,Paraguai,29,SE Palmeiras,9,00 mi. €,14/11/2022,9,00 mi. €
+96-Giovani,Ponta Direita,Brasil,19,SE Palmeiras,10,00 mi. €,14/11/2022,9,00 mi. €
+97-Róger Guedes,Ponta Esquerda,Brasil,26,SC Corinthians,11,00 mi. €,14/11/2022,8,00 mi. €
+98-José Manuel López,Centroavante,Argentina,22,SE Palmeiras,8,00 mi. €,14/11/2022,8,00 mi. €
+99-Wanderson,Ponta Esquerda,Brasil,28,SC Internacional,11,00 mi. €,14/11/2022,8,00 mi. €
+100-Matheuzinho,Lateral Dir.,Brasil,22,CR Flamengo,8,00 mi. €,14/11/2022,8,00 mi. €
