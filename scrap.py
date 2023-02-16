@@ -10,7 +10,7 @@ class Scraper_Master():
 
     def scraper(self,link):
         with sync_playwright() as p:
-            browser = p.chromium.launch()
+            browser = p.firefox.launch()
             page = browser.new_page()
             page.goto(link)
             conteudo = page.content()
@@ -28,10 +28,9 @@ class Scraper_Master():
         for i in range(2,int(a[-1])+1):
             link_base = "/".join(a[:-1])
             print(f"Fazendo Scrap da Pagina {i} do site")
-            print("https://www.transfermarkt.com.br"+link_base+"/"+str(i))
+            #print("https://www.transfermarkt.com.br"+link_base+"/"+str(i))
             self.scrap_jogadores(self.scraper("https://www.transfermarkt.com.br"+link_base+"/"+str(i)))
-            print("#"*25)
-            print(f"Arquivo {self.arquivo.name} foi terminado.")
+        print(f"Arquivo {self.arquivo.name} foi terminado.")
     def scrap_jogadores(self,scrap_content):
         scrap = bs(scrap_content,'html.parser')
         jogadores = scrap.find_all("tbody")[1].find_all("tr")
@@ -51,6 +50,8 @@ class Scraper_Master():
                 self.cont +=1
             else:
                 continue
+        print("#"*25)
+        
 
 file = open('Jogadores.txt',"w")
 Scraper_Master(file).start()
