@@ -1,0 +1,101 @@
+nome,posicao,nascionalidade,idade,clube,melhor_marca_da_carreira,ultima_alteracao,valor_de_mercado
+1-Gabriel Barbosa,Centroavante,Brasil,26,CR Flamengo,26,00 mi. €,14/11/2022,22,00 mi. €
+2-Pedro,Centroavante,Brasil,25,CR Flamengo,20,00 mi. €,14/11/2022,20,00 mi. €
+3-Endrick,Centroavante,Brasil,16,SE Palmeiras,20,00 mi. €,14/11/2022,20,00 mi. €
+4-Giorgian de Arrascaeta,Meia Ofensivo,Uruguai,28,CR Flamengo,19,00 mi. €,14/11/2022,19,00 mi. €
+5-Gerson,Meia Central,Brasil,25,CR Flamengo,22,00 mi. €,02/11/2022,18,00 mi. €
+6-Yuri Alberto,Centroavante,Brasil,21,SC Corinthians,16,00 mi. €,14/11/2022,16,00 mi. €
+7-Marcos Leonardo,Centroavante,Brasil,19,Santos FC,14,00 mi. €,14/11/2022,14,00 mi. €
+8-Matías Zaracho,Meia Ofensivo,Argentina,24,Atlético Mineiro,17,50 mi. €,14/11/2022,14,00 mi. €
+9-Guilherme Arana,Lateral Esq.,Brasil,25,Atlético Mineiro,14,00 mi. €,14/11/2022,14,00 mi. €
+10-Ângelo Gabriel,Ponta Direita,Brasil,18,Santos FC,13,00 mi. €,14/11/2022,13,00 mi. €
+11-Dudu,Ponta Esquerda,Brasil,31,SE Palmeiras,15,00 mi. €,14/11/2022,12,00 mi. €
+12-Raphael Veiga,Meia Ofensivo,Brasil,27,SE Palmeiras,12,00 mi. €,14/11/2022,12,00 mi. €
+13-Pedrinho,Ponta Direita,Brasil,24,Atlético Mineiro,17,00 mi. €,14/11/2022,12,00 mi. €
+14-Éverton,Ponta Esquerda,Brasil,26,CR Flamengo,40,00 mi. €,14/11/2022,12,00 mi. €
+15-Vitor Roque,Centroavante,Brasil,17,Athletico Paranaense,11,00 mi. €,14/11/2022,11,00 mi. €
+16-Rony,Centroavante,Brasil,27,SE Palmeiras,10,00 mi. €,14/11/2022,10,00 mi. €
+17-André,Volante,Brasil,21,Fluminense FC,10,00 mi. €,14/11/2022,10,00 mi. €
+18-Artur,Ponta Direita,Brasil,25,RB Bragantino,10,00 mi. €,14/11/2022,10,00 mi. €
+19-Kayky,Ponta Direita,Brasil,19,EC Bahia,14,00 mi. €,01/11/2022,10,00 mi. €
+20-Giovani,Ponta Direita,Brasil,19,SE Palmeiras,10,00 mi. €,14/11/2022,9,00 mi. €
+21-Gustavo Gómez,Zagueiro,Paraguai,29,SE Palmeiras,9,00 mi. €,14/11/2022,9,00 mi. €
+22-Róger Guedes,Ponta Esquerda,Brasil,26,SC Corinthians,11,00 mi. €,14/11/2022,8,00 mi. €
+23-José Manuel López,Centroavante,Argentina,22,SE Palmeiras,8,00 mi. €,14/11/2022,8,00 mi. €
+24-Wanderson,Ponta Esquerda,Brasil,28,SC Internacional,11,00 mi. €,14/11/2022,8,00 mi. €
+25-Matheuzinho,Lateral Dir.,Brasil,22,CR Flamengo,8,00 mi. €,14/11/2022,8,00 mi. €
+26-Léo Ortiz,Zagueiro,Brasil,27,RB Bragantino,7,50 mi. €,14/11/2022,7,50 mi. €
+27-Nathan Silva,Zagueiro,Brasil,25,Atlético Mineiro,7,50 mi. €,14/11/2022,7,50 mi. €
+28-Igor Gomes,Meia Central,Brasil,23,Atlético Mineiro,8,50 mi. €,14/11/2022,7,00 mi. €
+29-Maycon,Meia Central,Brasil,25,SC Corinthians,8,00 mi. €,14/11/2022,7,00 mi. €
+30-Patrick de Paula,Meia Central,Brasil,23,Botafogo FR,16,00 mi. €,14/11/2022,7,00 mi. €
+31-Paulinho,Ponta Esquerda,Brasil,22,Atlético Mineiro,25,00 mi. €,09/11/2022,7,00 mi. €
+32-João Paulo,Goleiro,Brasil,27,Santos FC,7,00 mi. €,14/11/2022,7,00 mi. €
+33-Nino,Zagueiro,Brasil,25,Fluminense FC,7,00 mi. €,14/11/2022,7,00 mi. €
+34-Fausto Vera,Volante,Argentina,22,SC Corinthians,11,00 mi. €,14/11/2022,7,00 mi. €
+35-Matheus Nascimento,Centroavante,Brasil,18,Botafogo FR,7,00 mi. €,14/11/2022,7,00 mi. €
+36-Gabriel Menino,Meia Central,Brasil,22,SE Palmeiras,15,00 mi. €,14/11/2022,7,00 mi. €
+37-Wesley,Ponta Esquerda,Brasil,23,Cruzeiro EC,7,00 mi. €,14/11/2022,7,00 mi. €
+38-Yeferson Soteldo,Ponta Esquerda,Venezuela,25,Santos FC,10,00 mi. €,14/11/2022,7,00 mi. €
+39-Rodrigo Nestor,Meia Central,Brasil,22,São Paulo FC,7,00 mi. €,14/11/2022,7,00 mi. €
+40-Jhon Arias,Meia Esquerda,Colômbia,25,Fluminense FC,7,00 mi. €,14/11/2022,7,00 mi. €
+41-Giuliano Galoppo,Meia Ofensivo,Argentina,23,São Paulo FC,7,00 mi. €,14/11/2022,7,00 mi. €
+42-Fabricio Bustos,Lateral Dir.,Argentina,26,SC Internacional,12,50 mi. €,14/11/2022,6,50 mi. €
+43-Bruno Praxedes,Meia Central,Brasil,21,RB Bragantino,6,50 mi. €,14/11/2022,6,50 mi. €
+44-Christian,Meia Central,Brasil,22,Athletico Paranaense,6,50 mi. €,14/11/2022,6,50 mi. €
+45-Murilo,Zagueiro,Brasil,25,SE Palmeiras,6,50 mi. €,14/11/2022,6,50 mi. €
+46-Allan,Volante,Brasil,25,Atlético Mineiro,6,50 mi. €,14/11/2022,6,50 mi. €
+47-Otávio,Volante,Brasil,28,Atlético Mineiro,8,00 mi. €,14/11/2022,6,00 mi. €
+48-Franco Cristaldo,Meia Ofensivo,Argentina,26,Grêmio FBPA,6,00 mi. €,26/10/2022,6,00 mi. €
+49-Erick Pulgar,Volante,Chile,29,CR Flamengo,15,00 mi. €,14/11/2022,6,00 mi. €
+50-Ferreira,Ponta Esquerda,Brasil,25,Grêmio FBPA,9,00 mi. €,28/12/2022,6,00 mi. €
+51-Ayrton Lucas,Lateral Esq.,Brasil,25,CR Flamengo,6,00 mi. €,14/11/2022,6,00 mi. €
+52-Khellven,Lateral Dir.,Brasil,21,Athletico Paranaense,6,00 mi. €,14/11/2022,6,00 mi. €
+53-Helinho,Ponta Direita,Brasil,22,RB Bragantino,6,00 mi. €,14/11/2022,6,00 mi. €
+54-Vitão,Zagueiro,Brasil,23,SC Internacional,6,00 mi. €,14/11/2022,6,00 mi. €
+55-Bento,Goleiro,Brasil,23,Athletico Paranaense,6,00 mi. €,14/11/2022,6,00 mi. €
+56-Fabián Balbuena,Zagueiro,Paraguai,31,SC Corinthians,12,00 mi. €,14/11/2022,6,00 mi. €
+57-Lucas Piton,Lateral Esq.,Brasil,22,CR Vasco da Gama,6,00 mi. €,14/11/2022,6,00 mi. €
+58-Luis Henrique,Ponta Esquerda,Brasil,21,Botafogo FR,8,00 mi. €,14/11/2022,6,00 mi. €
+59-Luan Cândido,Lateral Esq.,Brasil,22,RB Bragantino,6,00 mi. €,14/11/2022,6,00 mi. €
+60-Thiago Maia,Volante,Brasil,25,CR Flamengo,9,00 mi. €,14/11/2022,6,00 mi. €
+61-Pedro Raul,Centroavante,Brasil,26,CR Vasco da Gama,6,00 mi. €,14/11/2022,6,00 mi. €
+62-Jair,Volante,Brasil,28,CR Vasco da Gama,5,50 mi. €,14/11/2022,5,50 mi. €
+63-Natan,Zagueiro,Brasil,22,RB Bragantino,5,50 mi. €,14/11/2022,5,50 mi. €
+64-Alan Patrick,Meia Ofensivo,Brasil,31,SC Internacional,8,00 mi. €,14/11/2022,5,50 mi. €
+65-Cleiton,Goleiro,Brasil,25,RB Bragantino,5,50 mi. €,14/11/2022,5,50 mi. €
+66-Pablo Maia,Volante,Brasil,21,São Paulo FC,5,00 mi. €,14/11/2022,5,00 mi. €
+67-Luca Orellano,Ponta Direita,Argentina,22,CR Vasco da Gama,8,00 mi. €,26/10/2022,5,00 mi. €
+68-Joaquín Piquerez,Lateral Esq.,Uruguai,24,SE Palmeiras,5,00 mi. €,14/11/2022,5,00 mi. €
+69-David Terans,Meia Ofensivo,Uruguai,28,Athletico Paranaense,5,00 mi. €,14/11/2022,5,00 mi. €
+70-Guga,Lateral Dir.,Brasil,24,Fluminense FC,7,00 mi. €,14/11/2022,5,00 mi. €
+71-Rafael Navarro,Centroavante,Brasil,22,SE Palmeiras,5,00 mi. €,14/11/2022,5,00 mi. €
+72-Nicolás Acevedo,Volante,Uruguai,23,EC Bahia,5,00 mi. €,08/11/2022,5,00 mi. €
+73-Vitinho,Ponta Esquerda,Brasil,23,RB Bragantino,5,00 mi. €,14/11/2022,5,00 mi. €
+74-Marcos Paulo,Ponta Esquerda,Portugal,22,São Paulo FC,11,00 mi. €,29/12/2022,5,00 mi. €
+75-Zé Rafael,Meia Central,Brasil,29,SE Palmeiras,5,00 mi. €,14/11/2022,5,00 mi. €
+76-Marcelino Moreno,Meia Ofensivo,Argentina,27,Coritiba FC,8,00 mi. €,08/11/2022,5,00 mi. €
+77-Adson,Ponta Direita,Brasil,22,SC Corinthians,5,00 mi. €,14/11/2022,5,00 mi. €
+78-Cristian Pavón,Ponta Esquerda,Argentina,27,Atlético Mineiro,20,00 mi. €,14/11/2022,5,00 mi. €
+79-Calegari,Lateral Dir.,Brasil,20,Fluminense FC,5,00 mi. €,14/11/2022,5,00 mi. €
+80-Du Queiroz,Volante,Brasil,23,SC Corinthians,5,00 mi. €,14/11/2022,5,00 mi. €
+81-Éverton Ribeiro,Meia Ofensivo,Brasil,33,CR Flamengo,17,00 mi. €,14/11/2022,4,50 mi. €
+82-Gabriel Pires,Meia Central,Brasil,29,Botafogo FR,15,00 mi. €,14/11/2022,4,50 mi. €
+83-Brenno,Goleiro,Brasil,23,Grêmio FBPA,6,00 mi. €,28/12/2022,4,50 mi. €
+84-Mário Fernandes,Lateral Dir.,Rússia,32,SC Internacional,30,00 mi. €,21/11/2022,4,50 mi. €
+85-Ademir,Ponta Direita,Brasil,28,Atlético Mineiro,4,50 mi. €,14/11/2022,4,50 mi. €
+86-Jonathan Calleri,Centroavante,Argentina,29,São Paulo FC,10,00 mi. €,14/11/2022,4,50 mi. €
+87-Daniel Ruiz Rivera,Ponta Esquerda,Colômbia,21,Santos FC,4,50 mi. €,12/12/2022,4,50 mi. €
+88-Maurício,Meia Ofensivo,Brasil,21,SC Internacional,4,00 mi. €,14/11/2022,4,00 mi. €
+89-Thiago Borbas,Centroavante,Uruguai,20,RB Bragantino,4,00 mi. €,12/11/2022,4,00 mi. €
+90-Mathías Villasanti,Volante,Paraguai,26,Grêmio FBPA,5,00 mi. €,05/08/2022,4,00 mi. €
+91-Caio Paulista,Ponta Direita,Brasil,24,São Paulo FC,4,00 mi. €,14/11/2022,4,00 mi. €
+92-Martinelli,Meia Central,Brasil,21,Fluminense FC,4,00 mi. €,14/11/2022,4,00 mi. €
+93-Matheus França,Meia Ofensivo,Brasil,18,CR Flamengo,4,00 mi. €,14/11/2022,4,00 mi. €
+94-Tiquinho Soares,Centroavante,Brasil,32,Botafogo FR,12,00 mi. €,14/11/2022,4,00 mi. €
+95-Rubens,Meia Ofensivo,Brasil,21,Atlético Mineiro,4,00 mi. €,14/11/2022,4,00 mi. €
+96-Erison,Centroavante,Brasil,23,São Paulo FC,4,00 mi. €,01/11/2022,4,00 mi. €
+97-Léo Pereira,Zagueiro,Brasil,27,CR Flamengo,5,00 mi. €,14/11/2022,4,00 mi. €
+98-Eric Ramires,Meia Central,Brasil,22,RB Bragantino,4,00 mi. €,14/11/2022,4,00 mi. €
+99-Agustín Canobbio,Ponta Direita,Uruguai,24,Athletico Paranaense,4,00 mi. €,14/11/2022,4,00 mi. €
+100-Bruno Tabata,Meia Ofensivo,Brasil,25,SE Palmeiras,4,00 mi. €,14/11/2022,4,00 mi. €
